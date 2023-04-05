@@ -2,3 +2,5 @@ MATE
 CAFE
 HARINA
 PALMITOS
+yerba
+mermelada
